@@ -41,7 +41,7 @@ body {
 }
 
 .loading .bar:after {
-  content: "";
+  content: "Loading...";
   position: absolute;
   top: 0;
   left: 0;
